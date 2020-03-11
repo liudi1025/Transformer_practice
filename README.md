@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
     <br>
     <img src="https://raw.githubusercontent.com/huggingface/transformers/master/docs/source/imgs/transformers_logo_name.png" width="400"/>
@@ -687,3 +688,6 @@ We now have a paper you can cite for the 🤗 Transformers library:
   volume={abs/1910.03771}
 }
 ```
+=======
+# Transformer_practice
+>>>>>>> db12ef14b80eaa6bedead7d843f9d734cb7b4218
